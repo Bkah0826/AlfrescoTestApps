@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 alfresco-content-app-development-datasourcetest.zip filter=lfs diff=lfs merge=lfs -text
+LoginUIAlfrescoTest.zip filter=lfs diff=lfs merge=lfs -text
